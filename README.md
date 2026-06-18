@@ -49,6 +49,9 @@ Decompile SystemUI and add the invoke/sput lines based on `PATCH.smali`.
 
 ```smali
 invoke-static {}, Lhoshi/kvfod;->initkv()V
+
+    return-void
+.end method
 ```
 
 `OplusBiometricAuthController` → add inside `showUdfpsOverlay`/`hideUdfpsOverlay`, right after `.registers`:
