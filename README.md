@@ -122,7 +122,7 @@ you can make this props inbult to settings toggle/your apk
 
 ## Notes
 
-**[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — give credits if you using this as FOD+AOD+DT2W fix.
+**[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — give credits if you using this, as FOD+AOD+DT2W fix.
 
 **using this for paid roms is not allowed except you have permissions from me**
 
