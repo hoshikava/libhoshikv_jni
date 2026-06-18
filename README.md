@@ -48,7 +48,7 @@ Decompile SystemUI and add the invoke/sput lines based on `PATCH.smali`.
 `SystemUIApplication` OnCreate() method → add this invoke static before `return-void`:
 
 ```smali
-invoke-static {}, Lhoshi/kvfod;->initkv()V
+    invoke-static {}, Lhoshi/kvfod;->initkv()V
 
     return-void
 .end method
