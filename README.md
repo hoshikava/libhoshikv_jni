@@ -1,4 +1,4 @@
-# libhoshikv_jni
+# libhoshikv
 
 Native jni/c++ ioctl libs including **FOD, SOFOD, AOD, DT2W**, and full xiaomi touch controls to **oplus port with HyperOS vendor**.
 
