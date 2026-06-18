@@ -129,6 +129,6 @@ you can make this props inbult to settings toggle/your apk
 
 **using this for paid roms is not allowed except you have permissions from me**
 
-i will notice every single thing if you dont giving credits because it harcoded my name on it
+i will notice every single thing if you dont giving credits because it has my name hardcoded on it
 
 Report to me on **[@kvportschat](https://t.me/kvelementarychat)** if you found bugs
