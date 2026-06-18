@@ -1,0 +1,3 @@
+(typeattributeset mlstrustedobject (touchfeature_device))
+(allow platform_app touchfeature_device (chr_file (read write open ioctl getattr map)))
+(allowx platform_app touchfeature_device (ioctl chr_file (range 0x0000 0xffff)))
