@@ -123,5 +123,5 @@ you can make this props inbult to settings toggle/your apk
 
 ## Notes
 
-**[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — credit required if you use this.
-**report to me on [@kvportschat](https://t.me/kvelementarychat)** if you found bugs
+**[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — give credits if you using this as FOD+AOD+TOUCH.
+report to me on **[@kvportschat](https://t.me/kvelementarychat)** if you found bugs
