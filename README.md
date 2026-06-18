@@ -15,7 +15,7 @@ Tg Channel: [@kvports](https://t.me/kvports)
 - **SOFOD** — working screen off fod on doze_suspend/doze_brightness
 - **AOD** — always on display/doze brightness without delay
 - **DT2W** — connected xiaomi-dt2w to oplus dt2w settings
-- **Touch suite** — game, active, aim, expert, edge filter, tap, tolerance — via `persist.sys.kv*` props (`0` = off, `1` = on)
+- **Other Touch** — game, active, aim, expert, edge filter, tap, tolerance — via `persist.sys.kv*` props (`0` = off, `1` = on)
 - **HTSR** — forces 500Hz touch report rate `/sys/class/*/*/switch_report_rate`
 
 ## Requirements
