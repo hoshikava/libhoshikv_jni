@@ -1,1 +1,9 @@
+service htsr /vendor/bin/htsrchmod
+    user root
+    group root system
+    disabled
+    oneshot
+    seclabel u:r:init:s0
 
+on post-fs-data
+    exec htsr
