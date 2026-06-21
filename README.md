@@ -91,6 +91,9 @@ Add to `/vendor/build.prop`:
 
 ```
 ro.hoshikv.support=1
+persist.vendor.fingerprint.optical.support=1
+persist.vendor.fingerprint.sensor_type=optical
+vendor.fingerprint.aidl.support=1
 ```
 
 **4. Add SELinux policy**
