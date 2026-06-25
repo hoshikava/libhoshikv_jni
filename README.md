@@ -4,6 +4,8 @@ Native jni/c++ ioctl libs including **FOD, SOFOD, AOD, DT2W, HTSR**, and more xi
 
 Targets **VNDK34+ / newer AIDL devices**. Works on HyperOS vendor or an AOSP vendor with `mfp-daemon` ported from a HyperOS vendor/ODM.
 
+You can use this on HIDL Xiaomi Device for **SOFOD + AOD** by combining trydun fod method + libhoshikv.so patch
+
 READ UNTIL THE END.
 
 Author: **[@hoshikv](https://t.me/hoshikv)** ·
